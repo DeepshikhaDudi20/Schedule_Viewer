@@ -85,6 +85,6 @@ While the Schedule Viewer is fully functional, there are several areas where fur
 
 
 ## Screenshots
-![Screenshot](https://github.com/DeepshikhaDudi20/DeepshikhaDudi20/ScheduleViewer/blob/master/app-screenshots/App_Layout.png)
-![Screenshot](https://github.com/DeepshikhaDudi20/DeepshikhaDudi20/ScheduleViewer/blob/master/app-screenshots/LightHouse.png)
-![Screenshot](https://github.com/DeepshikhaDudi20/DeepshikhaDudi20/ScheduleViewer/blob/master/app-screenshots/Accessibility.png)
+![Screenshot](https://github.com/DeepshikhaDudi20/Schedule_Viewer/blob/master/app-screenshots/App_Layout.png)
+![Screenshot](https://github.com/DeepshikhaDudi20/Schedule_Viewer/blob/master/app-screenshots/LightHouse.png)
+![Screenshot](https://github.com/DeepshikhaDudi20/Schedule_Viewer/blob/master/app-screenshots/Accessibility.png)
