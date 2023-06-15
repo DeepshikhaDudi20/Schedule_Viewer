@@ -4,7 +4,7 @@
   "author": "Blue Prism Ltd",
   "license": "UNLICENSED",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "main": "index.js",
   "type": "module",
   "engines": {
@@ -12,8 +12,7 @@
   },
   "scripts": {
     "prestart": "node scripts/generateMockData",
-    "start": "json-server --watch src/api/db.json",
-    "build": "echo 'No build steps required for the server.'"
+    "start": "json-server --watch src/api/db.json"
   },
   "dependencies": {
     "json-schema-faker": "0.5.0-rcv.34",
